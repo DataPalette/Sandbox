@@ -7,3 +7,4 @@ sess = tf.Session()
 print('version : ', tf.__version__)
 print(sess.run(test_words))
 
+print('second commit test')
